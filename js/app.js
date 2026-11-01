@@ -1,5 +1,5 @@
 const cancons = [
-    {titol:'No hay tregua (Barricada),
+    {titol:'No hay tregua (Barricada)',
     lletra:`Es el juego del gato y el ratón
 Tus mejores años, clandestinidad
 No es muy difícil claudicar
