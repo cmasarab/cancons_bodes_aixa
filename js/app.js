@@ -75,62 +75,62 @@ Porque cantando se alegran, cielito lindo, los corazones`},
 
     {
         titol: "Libre",
-        lletra: "Tiene casi veinte años y ya está \n"+
-"Cansado de soñar\n"+
-"Pero tras la frontera está su hogar\n"+
-"Su mundo, su ciudad\n"+
-"Piensa que la alambrada solo es\n"+
-"Un trozo de metal\n"+
-"Algo que nunca puede detener\n"+
-"Sus ansias de volar\n"+
+        lletra: `Tiene casi veinte años y ya está
+Cansado de soñar
+Pero tras la frontera está su hogar
+Su mundo, su ciudad
+Piensa que la alambrada solo es
+Un trozo de metal
+Algo que nunca puede detener
+Sus ansias de volar
 
-"Libre\n"+
-"Como el Sol cuando amanece\n"+
-"Yo soy libre como el mar\n"+
-"Libre\n"+
-"Como el ave que escapó de su prisión\n"+
-"Y puede, al fin, volar\n"+
-"Libre\n"+
-"Como el viento que recoge mi lamento\n"+
-"Y mi pesar\n"+
-"Camino sin cesar\n"+
-"Detrás de la verdad\n"+
-"Y sabré lo que es al fin, la libertad\n"+
+Libre
+Como el Sol cuando amanece
+Yo soy libre como el mar
+Libre
+Como el ave que escapó de su prisión
+Y puede, al fin, volar
+Libre
+Como el viento que recoge mi lamento
+Y mi pesar
+Camino sin cesar
+Detrás de la verdad
+Y sabré lo que es al fin, la libertad
 
-"Con su amor por banderas se marchó\n"+
-"Cantando una canción\n"+
-"Marchaba tan feliz que no escuchó\n"+
-"La voz que le llamó\n"+
-"Y tendido en el suelo se quedó\n"+
-"Sonriendo y sin hablar\n"+
-"Sobre su pecho flores carmesí\n"+
-"Brotaban sin cesar\n"+
+Con su amor por banderas se marchó
+Cantando una canción
+Marchaba tan feliz que no escuchó
+La voz que le llamó
+Y tendido en el suelo se quedó
+Sonriendo y sin hablar
+Sobre su pecho flores carmesí
+Brotaban sin cesar
 
-"Libre\n"+
-"Como el Sol cuando amanece\n"+
-"Yo soy libre como el mar\n"+
-"Libre\n"+
-"Como el ave que escapó de su prisión\n"+
-"Y puede, al fin, volar\n"+
-"Libre\n"+
-"Como el viento que recoge mi lamento\n"+
-"Y mi pesar\n"+
-"Camino sin cesar\n"+
-"Detrás de la verdad\n"+
-"Y sabré lo que es al fin, la libertad\n"+
+Libre
+Como el Sol cuando amanece
+Yo soy libre como el mar
+Libre
+Como el ave que escapó de su prisión
+Y puede, al fin, volar
+Libre
+Como el viento que recoge mi lamento
+Y mi pesar
+Camino sin cesar
+Detrás de la verdad
+Y sabré lo que es al fin, la libertad
 
-"Libre\n"+
-"Como el Sol cuando amanece\n"+
-"Yo soy libre como el mar\n"+
-"Libre\n"+
-"Como el ave que escapó de su prisión\n"+
-"Y puede, al fin, volar\n"+
-"Libre\n"+
-"Como el viento que recoge mi lamento\n"+
-"Y mi pesar\n"+
-"Camino sin cesar\n"+
-"Detrás de la verdad\n"+
-"Y sabré lo que es al fin, la libertad\n"
+Libre
+Como el Sol cuando amanece
+Yo soy libre como el mar
+Libre
+Como el ave que escapó de su prisión
+Y puede, al fin, volar
+Libre
+Como el viento que recoge mi lamento
+Y mi pesar
+Camino sin cesar
+Detrás de la verdad
+Y sabré lo que es al fin, la libertad`
     },
 {
     titol: "Si Adelita se fuera con otro",
