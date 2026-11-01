@@ -1,5 +1,42 @@
 const cancons = [
-{titol:'Cielito lindo',
+    {titol:'No hay tregua (Barricada),
+        lletra:`Es el juego del gato y el ratón
+Tus mejores años, clandestinidad
+No es muy difícil claudicar
+Esto empieza a ser un laberinto
+
+¿Dónde está la salida?
+Estás asustado
+Tu vida va en ello
+Pero alguien debe tirar del gatillo
+
+Tu infantil sueño de loco
+No es respuesta demencial
+Este juego ha terminado
+Mucho antes de empezar
+
+Anónimo luchador
+Nunca tendrán las armas, la razón
+Pero cuando se aprende a llorar por algo
+También se aprende a defenderlo
+
+Estás asustado
+Tu vida va en ello
+Pero alguien debe tirar del gatillo
+
+Estás asustado
+Tu vida va en ello
+Pero alguien debe tirar del gatillo
+
+Estás asustado
+Tu vida va en ello
+Pero alguien debe tirar del gatillo
+
+Pero alguien debe tirar del gatillo
+Pero alguien debe tirar del gatillo`
+    },
+    
+    {titol:'Cielito lindo',
     lletra:` De la Sierra Morena, cielito lindo, vienen bajando
 Un par de ojitos negros, cielito lindo, de contrabando
 De la Sierra Morena, cielito lindo, vienen bajando
