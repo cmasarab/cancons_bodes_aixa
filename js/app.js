@@ -1,4 +1,47 @@
 const cancons = [
+    {titol: 'Mi carro',
+     lletra:`Mi carro me lo robaron
+Estando de romería
+Mi carro me lo robaron
+Anoche cuando dormía
+
+¿Dónde estará mi carro?
+¿Dónde estará mi carro?
+¿Dónde estará mi carro?
+¿Dónde estará mi carro?
+
+Me dicen que le quitaron
+Los clavos que relucían
+Creyendo que eran de oro
+De limpios que los tenía
+
+¿Dónde estará mi carro?
+¿Dónde estará mi carro?
+¿Dónde estará mi carro?
+¿Dónde estará mi carro?
+
+Donde quiera que esté mi carro es mío
+Porque en él me crie allá en el río
+Si lo llego a encontrar, vendrás conmigo
+En mi carro de amor por el camino
+
+Les digo, por el camino
+Hablando con los romeros
+Que lleva sobre sus varas
+Mi nombre graba'o a fuego
+
+¿Dónde estará mi carro?
+¿Dónde estará mi carro?
+¿Dónde estará mi carro?
+¿Dónde estará mi carro?
+
+En mi carro gasté una fortuna
+Y en mis noches de amor llevé la luna
+Preguntando busqué por todas partes
+Y por fin lo encontré, sin atalajes`
+        
+    },
+    
     {titol:'No hay tregua (Barricada)',
     lletra:`Es el juego del gato y el ratón
 Tus mejores años, clandestinidad
