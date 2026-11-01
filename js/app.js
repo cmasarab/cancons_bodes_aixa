@@ -221,6 +221,8 @@ En el cuerpo y la sangre del Señor`
 
 const llista = document.getElementById("llista-cancons");
 
+cancons.sort((a, b) => a.titol.localeCompare(b.titol, "es"));
+
 cancons.forEach(canço => {
 
     // Creem un botó
