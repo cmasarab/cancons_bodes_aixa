@@ -1,4 +1,76 @@
 const cancons = [
+
+{titol:'Cualquier día',
+    lletra:`Cualquier día, cualquier día, cualquier día, cualquier día
+Cualquier día, cualquier día, te pueden joder
+
+Te levantas de cama
+Son las dos de la tarde
+No tienes trabajo
+Ni nada que hacer
+
+Saludas al día
+Quizás con resaca
+Y en el bar de la esquina
+Tres cortaos con coñac
+
+Vas por la calle
+Un día cualquiera
+La chupa sobre el hombro
+Más perdido que el copón
+
+Vas por la calle
+Un día cualquiera
+Mosqueado con todos
+Cagándote en Dios
+
+No sé donde vivo
+No sé que hora es
+No sé si es mañana
+O todavía ayer
+
+No sé donde vivo
+Solo sé que estoy
+Hasta los mismo huevos
+Me cago en Dios
+
+Cualquier día, cualquier día, cualquier día, cualquier día
+Cualquier día, cualquier día, te pueden joder
+
+En tu bolsillo
+Hay que joder
+Te queda lo justo
+Para comer
+Pasado el rato
+Decides gastar
+Lo poco que tienes
+Para privar
+
+Compras un porros
+Bebes clarete
+Te pones borracho
+Te ríes de la gente
+
+Vas por la calle
+Un día cualquiera
+Mosqueado con todos
+Cagándote en Dios
+
+No sé donde vivo
+No sé que hora es
+No sé si es mañana
+O todavía ayer
+
+No sé donde vivo
+Solo sé que estoy
+Hasta los mismo huevos
+Me cago en Dios
+
+Cualquier día, cualquier día, cualquier día, cualquier día
+Cualquier día, cualquier día, te pueden joder`
+},
+
+
     {titol: 'Mi carro',
      lletra:`Mi carro me lo robaron
 Estando de romería
@@ -316,9 +388,21 @@ cancons.forEach(canço => {
 
     // Quan premem el botó, mostrem o amaguem la lletra
     boto.addEventListener("click", function() {
-        lletra.classList.toggle("ocult");
-    });
 
+        // Comprovem si aquesta cançó ja estava oberta
+        const estavaOberta = !lletra.classList.contains("ocult");
+
+        // Tanquem totes les lletres
+        document.querySelectorAll("#llista-cancons p").forEach(function(element) {
+            element.classList.add("ocult");
+        });
+
+        // Si estava tancada, l'obrim
+        if (!estavaOberta) {
+            lletra.classList.remove("ocult");
+        }
+
+    });
     // Afegim el botó i la lletra a la llista
     const element = document.createElement("li");
     element.appendChild(boto);
