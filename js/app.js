@@ -1,4 +1,49 @@
 const cancons = [
+
+    
+    
+    {titol: 'Europe is living a celebration',
+    lletra:`Estoy feliz de encontrarme hoy aquí
+y no me preguntes más por qué
+Ya corre en mis venas la emoción
+y nace en mí una ilusión
+
+Siento algo nuevo en mi interior
+que me lleva a ti
+un camino por hacer
+sin nada que esconder
+
+Europe's living a celebration
+Todos juntos vamos a cantar
+Europe's living a celebration
+Nuestro sueño una realidad
+
+No se oirán jamás las voces que no
+nos dejen dar el paso final
+Si existe en nosotros la pasión
+y brilla una luz en tu interior
+
+Ahora el tiempo nos cambió
+y será para siempre
+No dudes por favor
+lo dice el corazón
+
+Europe's living a celebration...
+
+No nos dejes amor
+No digas adiós
+Y crece, va creciendo
+la fuerza y la ilusión
+
+(CELEBRATION)
+Europe's living a celebration...
+
+Europe's living a celebration
+Todos juntos vamos a cantar
+Europe's living a celebration
+Es tu fiesta y no hay vuelta atrás`},
+
+    
     {titol:'Dos hombres y un destino (Bustamante)',
     lletra:`Ella tienen todo lo que siempre soñé
 Es la chica que busqué
