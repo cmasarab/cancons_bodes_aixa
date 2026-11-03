@@ -179,7 +179,7 @@ Ave, ave, ave María
 Dime, dime si serás mía
 Ave, ave, ave María`},
     
-    {titol: 'Europe's living a celebration',
+    {titol: 'Europe is living a celebration',
     lletra:`Estoy feliz de encontrarme hoy aquí
 y no me preguntes más por qué
 Ya corre en mis venas la emoción
