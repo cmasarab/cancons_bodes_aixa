@@ -1,5 +1,77 @@
 const cancons = [
+
+    {titol:'Para no verte más (la mosca tsé-tsé)',
+    lletra:`Cuando no tengas dónde ir
+Cuando te sangre la nariz
+Cuando te duela la cabeza
+Y se termine esa cerveza
+
+Cuando las alas de tu avión
+Se derritan sin razón
+Y el cáncer de la soledad
+Te haya matado en la ciudad
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Y si logras sobrevivir
+Al refucilo de maldad
+Preguntarás en dónde estás
+Preguntarás qué te pasó
+
+Me voy a poner a fumar
+Sin preocuparme en nada más
+Total ya es tarde pa' volver
+Total ya es tarde pa' soñar
+
+Y romperé tus fotos
+Y quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos`
     
+    },
+
 {titol:'Cualquier día',
     lletra:`Cualquier día, cualquier día, cualquier día, cualquier día
 Cualquier día, cualquier día, te pueden joder
