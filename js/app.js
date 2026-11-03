@@ -1,4 +1,272 @@
 const cancons = [
+    {titol:'Para no verte más (la mosca tsé-tsé)',
+    lletra:`Cuando no tengas dónde ir
+Cuando te sangre la nariz
+Cuando te duela la cabeza
+Y se termine esa cerveza
+
+Cuando las alas de tu avión
+Se derritan sin razón
+Y el cáncer de la soledad
+Te haya matado en la ciudad
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Y si logras sobrevivir
+Al refucilo de maldad
+Preguntarás en dónde estás
+Preguntarás qué te pasó
+
+Me voy a poner a fumar
+Sin preocuparme en nada más
+Total ya es tarde pa' volver
+Total ya es tarde pa' soñar
+
+Y romperé tus fotos
+Y quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos
+Yo quemaré tus cartas
+Para no verte más
+Para no verte más
+
+Yo romperé tus fotos`
+    
+    },
+    {titol:'Dos hombres y un destino (Bustamante)',
+    lletra:`Ella tienen todo lo que siempre soñé
+Es la chica que busqué
+Es la chispa de mi piel
+Mi primer amor, mi primera vez
+
+Ella es el regalo que tanto esperé
+Cuando no pensaba ya
+En volverme a enamorar
+Ella es como el Sol de otro amanecer
+
+Por el amor de esa mujer
+Somos dos hombres con un mismo destino
+Pero yo sé que ella me quiere a mí
+Y que juega contigo
+
+Por el amor de esa mujer
+Somos dos hombres con un mismo destino
+Y aunque me digas que ella es para ti
+Y aunque seas mi amigo, lucharé
+
+Cuando está conmigo la hago mujer
+Le doy todo lo que sé
+Mi futuro y mi ayer
+La sé despertar, la sé comprender
+
+Cuando está conmigo es niña otra vez
+Cada beso sabe a miel
+Es amiga de los dos
+Pero en el amor jugamos los tres
+
+Por el amor de esa mujer
+Somos dos hombres con un mismo destino
+Pero yo sé que ella me quiere a mí
+Y que juega contigo
+
+Por el amor de esa mujer
+Somos dos hombres con un mismo destino
+Y aunque me digas que ella es para ti
+Y aunque seas mi amigo, lucharé, lucharé, lucharé, lucharé, lucharé`},
+
+    
+    {titol: 'Ave Maria (Bisbal)',
+    lletra: `Ave María cuando serás mía
+Si me quisieras todo te daría
+Ave María cuando serás mía
+Al mismo cielo yo te llevaría
+
+Dime tan solo una palabra
+Que me devuelva la vida
+Y se me quede en el alma
+Porque sin ti no tengo nada
+Envuélveme con tus besos
+Refúgiame en tu guarida
+
+Y cuando yo te veo
+No sé lo que siento
+Y cuando yo te tengo
+Me quemo por dentro
+Y más y más de ti
+Yo me enamoro
+Tú eres lo que quiero
+Tú eres mi tesoro
+
+Ave Maria cuando serás mía
+Si me quisieras todo te daría
+Ave Maria cuando serás mía
+Al mismo cielo yo te llevaría
+
+Sin ti me siento tan perdido
+Enséñame la salida
+Llévame siempre contigo
+Protégeme con tu cariño
+Enciéndeme con tu fuego
+Y ya más nada te pido
+Nada te pido
+
+Y cuando yo te veo
+No sé lo que siento
+Y cuando yo te tengo
+Me quemo por dentro
+Y más y más de ti
+Yo me enamoro
+Tú eres lo que quiero
+Tú eres mi tesoro
+
+Ave Maria cuando serás mía
+Si me quisieras todo te daría
+Ave Maria cuando serás mía
+Al mismo cielo yo te llevaría
+Ave María
+
+Ave ave María
+Dime si un día serás mía
+Ave ave María
+Dime si un día serás mía
+
+Ave María cuando serás mía
+Ave, ave, ave María dime si serás mía
+Dime, dime si serás mía
+Dímelo, dímelo, dímelo ya
+Dime dime ave María (ave Maria)
+Dime, dime si serás mía
+Ave, ave, ave María (ave María)
+Dime, dime si serás mía (si serás mía)
+Ave, ave, ave María
+Dime, dime si serás mía
+Ave, ave, ave María`}
+    
+    {titol: 'Europe's living a celebration',
+    lletra:`Estoy feliz de encontrarme hoy aquí
+y no me preguntes más por qué
+Ya corre en mis venas la emoción
+y nace en mí una ilusión
+
+Siento algo nuevo en mi interior
+que me lleva a ti
+un camino por hacer
+sin nada que esconder
+
+Europe´s living a celebration
+Todos juntos vamos a cantar
+Europe´s living a celebration
+Nuestro sueño una realidad
+
+No se oirán jamás las voces que no
+nos dejen dar el paso final
+Si existe en nosotros la pasión
+y brilla una luz en tu interior
+
+Ahora el tiempo nos cambió
+y será para siempre
+No dudes por favor
+lo dice el corazón
+
+Europe´s living a celebration...
+
+No nos dejes amor
+No digas adiós
+Y crece, va creciendo
+la fuerza y la ilusión
+
+(CELEBRATION)
+Europe´s living a celebration...
+
+Europe´s living a celebration
+Todos juntos vamos a cantar
+Europe´s living a celebration
+Es tu fiesta y no hay vuelta atrás`},
+    
+    {titol:'Dime (Beth)',
+    lletra:`Mar en calma en un atardecer
+Y todo vuelve a ser como era entonces
+Juego con la arena entre mis pies
+Dibujando sin querer tu nombre
+
+Cuántas veces te llamé en la noche
+Cuántas veces te busqué
+Por mis recuerdos yo vuelvo y no pierdo la fe
+
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida
+Vamos a olvidar el ayer y a comenzar otra vez
+Sin mentiras
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida
+
+Me han contado que tú estás igual
+Y que te sientes mal como yo
+No permitas que el orgullo sea
+Quien decida por los dos
+
+Porque tú sabes que te quiero
+Y todo lo que dije no es verdad
+Deja tus miedos, podemos si quieres
+Volverlo a intentar
+
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida
+Vamos a olvidar el ayer y a comenzar otra vez
+Sin mentiras
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida
+
+Que tú y yo sabemos
+Que no podemos vivir así
+Vuelve junto a mí
+
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida
+Vamos a olvidar el ayer y a comenzar otra vez
+Sin mentiras
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida`
+    },
+
+    
     {titol:'Rosas (La oreja de Van Gogh)',
     lletra:`En un día de estos en que suelo pensar
 Hoy va a ser el día menos pensado
