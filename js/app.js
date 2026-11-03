@@ -1,6 +1,105 @@
 const cancons = [
 
+        {titol:'Dime (Beth)',
+    lletra:`Mar en calma en un atardecer
+Y todo vuelve a ser como era entonces
+Juego con la arena entre mis pies
+Dibujando sin querer tu nombre
+
+Cuántas veces te llamé en la noche
+Cuántas veces te busqué
+Por mis recuerdos yo vuelvo y no pierdo la fe
+
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida
+Vamos a olvidar el ayer y a comenzar otra vez
+Sin mentiras
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida
+
+Me han contado que tú estás igual
+Y que te sientes mal como yo
+No permitas que el orgullo sea
+Quien decida por los dos
+
+Porque tú sabes que te quiero
+Y todo lo que dije no es verdad
+Deja tus miedos, podemos si quieres
+Volverlo a intentar
+
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida
+Vamos a olvidar el ayer y a comenzar otra vez
+Sin mentiras
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida
+
+Que tú y yo sabemos
+Que no podemos vivir así
+Vuelve junto a mí
+
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida
+Vamos a olvidar el ayer y a comenzar otra vez
+Sin mentiras
+Dime qué es lo que puedo hacer, cómo te puedo tener
+En mi vida`
+    },
+
     
+    {titol:'Rosas (La oreja de Van Gogh)',
+    lletra:`En un día de estos en que suelo pensar
+Hoy va a ser el día menos pensado
+Nos hemos cruzado, has decidido mirar
+A los ojitos azules que ahora van a tu lado
+
+Desde el momento en el que te conocí
+Resumiendo con prisas, tiempo de silencio
+Te juro que a nadie le he vuelto a decir
+Que tenemos el record del mundo en querernos
+
+Por eso esperaba con la carita empapada
+Que llegaras con rosas, con mil rosas para mí
+Porque ya sabes que me encantan esas cosas
+Que no importa si es muy tonto, soy así
+Y aún me parece mentira que se escape mi vida
+Imaginando que vuelves a pasarte por aquí
+Donde los viernes, cada tarde como siempre
+La esperanza dice: Quieta, hoy quizá sí
+
+Escapando una noche de un bostezo del Sol
+Me pediste que te diera un beso
+Con lo baratos que salen mi amor
+¿Qué te cuesta callarme con uno de esos?
+Pasaron seis meses y me dijiste adiós
+Un placer coincidir en esta vida
+Ahí me quedé en una mano el corazón
+Y en la otra excusas que ni tú entendías
+
+Por eso esperaba con la carita empapada
+Que llegaras con rosas, con mil rosas para mí
+Porque ya sabes que me encantan esas cosas
+Que no importa si es muy tonto, soy así
+Y aún me parece mentira que se escape mi vida
+Imaginando que vuelves a pasarte por aquí
+Donde los viernes, cada tarde como siempre
+La esperanza dice: Quieta, hoy quizá sí
+
+Y es que empiezo a pensar
+Que el amor verdadero es tan solo el primero
+Y es que empiezo a sospechar
+Que los demás son solo para olvidar
+
+Por eso esperaba con la carita empapada
+Que llegaras con rosas, con mil rosas para mí
+Porque ya sabes que me encantan esas cosas
+Que no importa si es muy tonto, soy así
+Y aún me parece mentira que se escape mi vida
+Imaginando que vuelves a pasarte por aquí
+Donde los viernes, cada tarde como siempre
+La esperanza dice: Quieta, hoy quizá sí`
+    },
+
     
     {titol: 'Europe is living a celebration',
     lletra:`Estoy feliz de encontrarme hoy aquí
