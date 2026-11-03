@@ -177,7 +177,7 @@ Ave, ave, ave María (ave María)
 Dime, dime si serás mía (si serás mía)
 Ave, ave, ave María
 Dime, dime si serás mía
-Ave, ave, ave María`}
+Ave, ave, ave María`},
     
     {titol: 'Europe's living a celebration',
     lletra:`Estoy feliz de encontrarme hoy aquí
