@@ -1,4 +1,44 @@
 const cancons = [
+    {titol:'Dos hombres y un destino (Bustamante)',
+    lletra:`Ella tienen todo lo que siempre soñé
+Es la chica que busqué
+Es la chispa de mi piel
+Mi primer amor, mi primera vez
+
+Ella es el regalo que tanto esperé
+Cuando no pensaba ya
+En volverme a enamorar
+Ella es como el Sol de otro amanecer
+
+Por el amor de esa mujer
+Somos dos hombres con un mismo destino
+Pero yo sé que ella me quiere a mí
+Y que juega contigo
+
+Por el amor de esa mujer
+Somos dos hombres con un mismo destino
+Y aunque me digas que ella es para ti
+Y aunque seas mi amigo, lucharé
+
+Cuando está conmigo la hago mujer
+Le doy todo lo que sé
+Mi futuro y mi ayer
+La sé despertar, la sé comprender
+
+Cuando está conmigo es niña otra vez
+Cada beso sabe a miel
+Es amiga de los dos
+Pero en el amor jugamos los tres
+
+Por el amor de esa mujer
+Somos dos hombres con un mismo destino
+Pero yo sé que ella me quiere a mí
+Y que juega contigo
+
+Por el amor de esa mujer
+Somos dos hombres con un mismo destino
+Y aunque me digas que ella es para ti
+Y aunque seas mi amigo, lucharé, lucharé, lucharé, lucharé, lucharé`},
 
     {titol:'Para no verte más (la mosca tsé-tsé)',
     lletra:`Cuando no tengas dónde ir
