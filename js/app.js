@@ -1,5 +1,67 @@
 const cancons = [
+        {titol:'Vivir así es morir de amor (Camilo Sesto',
+        `Siempre me traiciona la razón
+Y me domina el corazón
+No sé luchar contra el amor
 
+Siempre me voy a enamorar
+De quien de mí no se enamora
+Y es por eso que mi alma llora
+
+Y ya no puedo más, ya no puedo más
+Siempre se repite esta misma historia
+Y ya no puedo más, ya no puedo más
+Estoy harto de rodar como una noria
+
+Vivir así es morir de amor
+Y por amor tengo el alma herida
+Por amor
+No quiero más vida que su vida
+Melancolía
+
+Vivir así es morir de amor
+Soy mendigo de sus besos
+Soy su amigo
+Y quiero ser algo más que eso
+Melancolía
+
+Siempre se apodera de mi ser
+Mi serenidad se vuelve locura
+Y me llena de amargura
+
+Siempre me voy a enamorar
+De quien de mí no se enamora
+Y es por eso que mi alma llora
+
+Y ya no puedo más, ya no puedo más
+Siempre se repite la misma historia
+Y ya no puedo más, ya no puedo más
+Estoy harto de rodar como una noria
+
+Vivir así es morir de amor
+Y por amor tengo el alma herida
+Por amor
+No quiero más vida que su vida
+Melancolía
+
+Vivir así es morir de amor
+Soy mendigo de sus besos
+Soy su amigo
+Y quiero ser algo más que eso
+Melancolía
+
+Vivir así es morir de amor
+Y por amor tengo el alma herida
+Por amor
+No quiero más vida que su vida
+Melancolía
+
+Vivir así es morir de amor
+Soy mendigo de sus besos
+Soy su amigo
+Y quiero ser algo más que eso
+Melancolía`
+        },
         {titol:'Dime (Beth)',
     lletra:`Mar en calma en un atardecer
 Y todo vuelve a ser como era entonces
