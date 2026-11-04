@@ -1,5 +1,5 @@
 const cancons = [
-        {titol:'Vivir así es morir de amor (Camilo Sesto',
+        {titol:'Vivir así es morir de amor (Camilo Sesto)',
         `Siempre me traiciona la razón
 Y me domina el corazón
 No sé luchar contra el amor
