@@ -1,4 +1,42 @@
 const cancons = [
+{titol:'Soldadito marinero (Fito)',
+    lletra:`Él camina despacito, que las prisas no son buenas
+En su brazo, dobladita, con cuidado, la chaqueta
+Luego pasa por la calle donde los chavales juegan
+Él también quiso ser niño, pero le pilló la guerra
+
+Soldadito marinero, conociste a una sirena
+De esas que dicen: Te quiero, si ven la cartera llena
+Escogiste a la más guapa y a la menos buena
+Sin saber cómo ha venido, te ha cogido la tormenta
+
+Él quería cruzar los mares y olvidar a su sirena
+La verdad, no fue difícil cuando conoció a Mariela
+Que tenía los ojos verdes y un negocio entre las piernas
+Hay que ver qué puntería, no te arrimas a una buena
+
+Soldadito marinero, conociste a una sirena
+De esas que dicen: Te quiero, si ven la cartera llena
+Escogiste a la más guapa y a la menos buena
+Sin saber cómo ha venido, te ha cogido la tormenta
+
+Después de un invierno malo
+Una mala primavera
+Dime por qué estás buscando
+Una lágrima en la arena
+
+Después de un invierno malo
+Una mala primavera
+Dime por qué estás buscando
+Una lágrima en la arena
+
+Después de un invierno malo
+Una mala primavera
+Dime por qué estás buscando
+Una lágrima en la arena
+Después de un invierno malo`
+    },
+
         {titol:'Vivir así es morir de amor (Camilo Sesto)',
     lletra:`Siempre me traiciona la razón
 Y me domina el corazón
