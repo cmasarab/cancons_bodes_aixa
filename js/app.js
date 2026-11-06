@@ -1,4 +1,175 @@
 const cancons = [
+
+    {titol:'La raja de tu falda (Estopa)',
+    lletra:`Era una tarde tonta y caliente
+De esas que te quema el Sol la frente
+Era el verano del 97
+Y yo me moría por verte
+Mi única idea era camelarte
+Era llevarte a cualquier parte
+Yo ese día tocaba en el bar sin nombre
+Y allí esperaba encontrarte
+
+Me puse un pantaloncito estrecho
+La camiseta de los conciertos
+Vamos Josele tira pa'l coche
+Porque esta noche nos la comemos
+
+Y al pasar por tu calle allí estabas tú
+Esperando en la parada del autobús
+Comiéndote con gracia aquel chupachup
+¡Qué vicio, qué vicio!
+
+No sé que me dio por la espalda
+Cuando vi la raja de tu falda
+Que un Seat Panda se me cruzó
+Y se comió el parachoques de mi Ford Escort
+
+Por la raja de tu falda yo
+Tuve un piñazo con un Seat Panda
+
+10:40 post meridiam
+Llegamos tarde para no variar
+Y el tío del garito esta mosqueao
+
+Porque aún no hay nada montao
+Y la gente entra que te entra
+Y yo enchufa que te enchufa
+Mi hermano "prueba que te prueba"
+¿Esto se escucha o no se escucha?
+Entre el calor de la gente, alma del ambiente
+Los focos deslumbrantes son muy potentes
+
+El público delante muy expectante
+¡Caliente, caliente!
+De repente se abrió la puerta
+Mientras yo cogía la guitarra
+Y me temblaron las piernas
+Al ver de nuevo la raja de tu falda
+
+Por la raja de tu falda yo
+Rompí tres cuerdas de esta guitarra
+Por la raja de tu falda yo
+Rompí tres cuerdas de esta guitarra
+
+Y ahora ya ha pasado el tiempo
+Parece que fuera ayer
+Desde que desapareciste del concierto
+Yo no te he vuelto a ver
+Ya no recuerdo tus ojos
+Ni siquiera tu mirada
+Tan solo puedo acordarme de la raja de tu falda
+Por la raja de tu falda
+Yo me he obsesionao y voy de barra en barra
+
+Por la raja de tu falda
+Yo tuve un piñazo con un Seat Panda
+
+Por la raja de tu falda
+Yo tuve un siniestro con un Seat Panda`
+    },
+
+
+    
+    {titol:'Un velero llamado libertad (Perales)',
+    lletra:`Ayer se fue, tomó sus cosas y se puso a navegar
+Una camisa, un pantalón vaquero y una canción
+Dónde irá, dónde irá
+
+Se despidió, y decidió batirse en duelo con el mar
+Y recorrer el mundo en su velero
+Y navegar, nai-na-na, navegar
+
+Y se marchó
+Y a su barco le llamó libertad
+Y en el cielo descubrió gaviotas
+Y pintó, estelas en el mar
+
+Y se marchó
+Y a su barco le llamó libertad
+Y en el cielo descubrió gaviotas
+Y pintó, estelas en el mar
+
+Su corazón buscó una forma diferente de vivir
+Pero las olas le gritaron: Vete
+Con los demás, nai-na-na, con los demás
+
+Y se durmió
+Y la noche le gritó: ¿dónde vas?
+Y en sus sueños dibujó gaviotas
+Y pensó, hoy debo regresar
+
+Y regresó
+Y una voz le preguntó: ¿cómo estás?
+Y al mirarla descubrió
+Unos ojos, nai-na-na, azules como el mar
+
+Y regresó
+Y una voz le preguntó: ¿cómo estás?
+Y al mirarla descubrió
+Unos ojos, nai-na-na, azules como el mar
+
+Y se marchó
+Y a su barco le llamó libertad
+Y en el cielo descubrió gaviotas
+Y pintó, estelas en el mar`
+    },
+
+
+    {titol:'Mi gran noche (Raphael)',
+    lletra:`Hoy, para mí, es un día especial
+Hoy saldré por la noche
+Podré vivir lo que el mundo nos da
+Cuando el Sol ya se esconde
+
+Podré cantar una dulce canción
+A la luz de la Luna
+Y acariciar y besar a mi amor
+Como no lo hice nunca
+
+¿Qué pasará? ¿Qué misterio habrá?
+Puede ser mi gran noche
+Y al despertar, ya mi vida sabrá
+Algo que no conoce
+
+Caminaré, abrazado a mi amor
+Por las calles sin rumbo
+Descubriré que el amor es mejor
+Cuando todo está oscuro
+
+Y sin hablar, nuestros pasos se irán
+A buscar otra puerta
+Que se abrirá como mi corazón
+Cuando ella se acerca
+
+¿Qué pasará? ¿Qué misterio habrá?
+Puede ser mi gran noche
+Y al despertar, ya mi vida sabrá
+Algo que no conoce
+
+Será, será esta noche ideal
+Que ya nunca se olvida
+Podré reír y soñar y bailar
+Disfrutando la vida
+
+Olvidaré la tristeza y el mal
+Y las penas del mundo
+Y escucharé los violines cantar
+En la noche, sin rumbo
+
+¿Qué pasará? ¿Qué misterio habrá?
+Puede ser mi gran noche
+Y al despertar, ya mi vida sabrá
+Algo que no conoce
+
+¿Qué pasará? ¿Qué misterio habrá?
+Puede ser mi gran noche
+¿Qué pasará? ¿Qué misterio habrá?
+Puede ser mi gran noche`
+    },
+
+
+
     
 {titol:'Soldadito marinero (Fito)',
     lletra:`Él camina despacito, que las prisas no son buenas
