@@ -1,4 +1,100 @@
 const cancons = [
+    {titol:'La cucaracha',
+    lletra:`La cucaracha, la cucaracha
+Ya no puede caminar
+Porque no tiene, porque le falta
+Marihuana que fumar
+
+La cucaracha, la cucaracha
+Ya no puede caminar
+Porque no tiene, porque le falta
+Marihuana que fumar
+
+Con las barbas de Carranza
+Voy a hacer una toquilla
+Pa' ponérsela al sombrero
+Del señor Francisco Villa
+
+Con las barbas de Carranza
+Voy a hacer una toquilla
+Pa' ponérsela al sombrero
+Del señor Francisco Villa
+
+La cucaracha, la cucaracha
+Ya no puede caminar
+Porque no tiene, porque le falta
+Marihuana que fumar
+
+Qué bonita cucaracha
+Para echarme una bailada
+Empezando por la noche
+Hasta ahí en la madrugada
+
+Qué bonita cucaracha
+Para echarme una bailada
+Empezando por la noche
+Hasta ahí en la madrugada
+
+La cucaracha, la cucaracha
+Ya no puede caminar
+Porque no tiene, porque le falta
+Marihuana que fumar
+
+Ya murió la cucaracha
+Ya la llevan a enterrar
+Entre cuatro zopilotes
+Y uno que otro gavilán
+
+Ya murió la cucaracha
+Ya la llevan a enterrar
+Entre cuatro zopilotes
+Y uno que otro gavilán
+
+La cucaracha, la cucaracha
+Ya no puede caminar
+Porque no tiene, porque le falta
+Marihuana que fumar
+
+La cucaracha, la cucaracha
+Ya no puede caminar
+Porque no tiene, porque le falta
+Marihuana que fumar`
+    },
+    {titol:'La mujer de verde (izal)',
+    lletra:`La respuesta siempre será sí
+No hay alternativa y si la hubiera no me gustaría
+Mira la ciudad por la ventana
+De la cafetería y me dice que sonría
+
+Sé que ella quisiera regalar
+Sus superpoderes, igualarse a los demás
+La mujer de verde se ha vuelto a poner el traje para rescatarme
+Qué sucederá cuando las balas no reboten
+Y los malos sean más fuertes
+Y volar no sea tan fácil
+Y conozcan nuestros planes?
+
+Dame una señal (de carnaval)
+Yo buscaré un disfraz de carnaval
+Encontraremos algo en el desván
+Prometo no estorbar
+La mujer de verde se ha vuelto
+A poner el traje para rescatarme
+Qué sucederá cuando las balas no reboten
+Y los malos sean más fuertes
+Y volar no sea tan fácil
+Y conozcan nuestros planes?
+
+Tú hazme una señal (de carnaval)
+Yo buscaré un disfraz de carnaval
+Encontraremos algo en el desván
+Prometo no estorbar
+Tú dame una señal
+Yo buscaré un disfraz de carnaval
+Encontraremos algo en el desván
+Prometo no estorbar`
+    },
+
 
     {titol:'La raja de tu falda (Estopa)',
     lletra:`Era una tarde tonta y caliente
